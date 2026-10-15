@@ -1,0 +1,19 @@
+{
+  "name": "student-career-discovery-dashboard",
+  "version": "1.0.0",
+  "description": "Student Career Discovery Platform — Project Dashboard for Founder Review",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": [
+    "dashboard",
+    "career-discovery",
+    "education",
+    "prd",
+    "research"
+  ],
+  "author": "Nishtha Khanna",
+  "license": "UNLICENSED"
+}
